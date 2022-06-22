@@ -67,6 +67,6 @@ try {
   // do nth
 }
 
-const fenVersion = packageJson.version;
+const versionInfo = packageJson.version;
 
-export { version, fenVersion, changelogs };
+export { version, versionInfo, changelogs };
