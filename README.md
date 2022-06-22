@@ -1,37 +1,27 @@
-# yiyi-plugin
+# yiyi-plugin说明
 
-#### 介绍
-嗝嗝嗝嗝嗝嗝嗝嗝嗝嗝
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+yiyi-plugin是Yunzai-Bot的外挂插件，提供第二、三攻略(米游社O丶Ha丶Yo ，米游社流曳)
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+在角色攻略后面接上数字（2、3）即可.如：刻晴攻略2，心海攻略3，#可有可无.
 
 
-#### 特技
+#### 安装与更新
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+使用git进行安装，以方便后续升级.
+
+在BOT根目录夹打开终端，运行.
+
+```
+// 使用gihub
+git clone https://github.com/lin-4414/yiyi-plugin.git ./plugins/yiyi-plugin/
+
+// 使用gitee
+git clone https://gitee.com/lin-4414/yiyi-plugin.git ./plugins/yiyi-plugin/
+```
+进行安装.
+建议使用上述命令进行安装，以便于后续更新.
+#### 免责声明
+1. 功能仅限内部交流与小范围使用，请勿将Yunzai-Bot及yiyi-Plugin用于任何以盈利为目的的场景.
+2. 图片与其他素材均来自于网络，仅供交流学习使用，如有侵权请联系，会立即删除.
+
