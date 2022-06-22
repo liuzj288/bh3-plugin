@@ -14,10 +14,10 @@ yiyi-plugin是Yunzai-Bot的外挂插件，提供第二、三攻略(米游社O丶
 
 ```
 // 使用gihub
-git clone https://github.com/lin-4414/yiyi-plugin.git ./plugins/yiyi-plugin/
+git clone https://github.com/cv-hunag/yiyi-plugin ./plugins/yiyi-plugin/
 
 // 使用gitee
-git clone https://gitee.com/lin-4414/yiyi-plugin.git ./plugins/yiyi-plugin/
+git clone https://gitee.com/cv-hunag/yiyi-plugin ./plugins/yiyi-plugin/
 ```
 进行安装.
 建议使用上述命令进行安装，以便于后续更新.
