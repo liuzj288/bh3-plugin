@@ -13,8 +13,8 @@ export {
 
 let rule = {
   roles_Strategy2: {
-    reg: "^#*[^-~]+攻略2+$",
-    describe: "【#角色攻略2】获取第二份已有角色攻略概览",
+    reg: "^#*[^-~]+乐土攻略+$",
+    describe: "【#乐土攻略】乐土攻略",
   },
   roles_Strategy3: {
     reg: "^#*[^-~]+攻略3+$",
